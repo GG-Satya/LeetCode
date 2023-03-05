@@ -1,8 +1,8 @@
 # LeetCode
 - This repository is a collection of my gists (***Working & Accepted*** :white_check_mark: code snippets passing all test cases on the 
 [LeetCode online platform](https://leetcode.com/)) solutions in the absolutely fantastic 
-language, my favorite i.e Java
-
+language, my favorite i.e Java.
+- [My Leetcode Profile](https://leetcode.com/ggsatya/)🔗
 - This speciality of this repo is , each folder 📂 has a specific Leetcode problem, The folder name itself indicates an LeetCode problem.
 These folders has two files in it i.e ***Question.txt 🗒️& Solution.java 🗒️***. These file names clarifies the contents inside it.
 - The Commit message defines the date when that particular problem was asked in Daily LeetCode Challenge.
